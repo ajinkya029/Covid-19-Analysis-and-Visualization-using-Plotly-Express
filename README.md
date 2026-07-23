@@ -89,7 +89,7 @@ The datasets include information such as:
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/COVID-19-Analysis-Visualization.git
+git clone https://github.com/ajinkya029/Covid-19-Analysis-and-Visualization-using-Plotly-Express.git
 ```
 
 Go inside the project folder.
